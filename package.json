@@ -1,6 +1,6 @@
 {
-  "name": "pack-to-ui",
-  "version": "1.0.3",
+  "name": "notify-kit",
+  "version": "1.0.6",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
-    "react-icons": "^5.2.1"
+    "react-icons": "^5.2.1",
+    "user": "^0.0.0"
   }
 }
